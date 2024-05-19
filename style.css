@@ -1,0 +1,397 @@
+
+
+body {
+    font-family:sans-serif;
+    background-color:rgb(255, 255, 255);
+    color:black;
+    
+}
+
+header {
+    margin-bottom: 10px;
+}
+
+
+nav {
+
+    padding: 25px 50px 25px 55px;
+    display: flex;
+    justify-content: space-between;
+    border-top:5px solid #ffcc57;
+    border-bottom:5px solid #ffcc57;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+.nav-link:hover {
+    color:black;
+    font-size:30px;
+    border-bottom:4px dotted white;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+    transition:300ms;
+}
+
+.krut-text {
+    width:60%;
+}
+
+
+.krut {
+    background-color: rgb(0, 0, 0);
+    color:white;
+    padding: 15px 45px 30px 45px;
+    width: 400px;
+    margin: 20px;
+    position: relative;
+    border-radius:5%;
+    transition:400ms;
+}
+
+
+footer {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 30px 20px 45px;
+}
+
+.footer-text {
+    font-size: 24px;
+    margin-right: 30px;
+}
+
+
+
+.krut:hover {
+    font-size:20px;
+    transition:400ms;
+    background-image:linear-gradient(black,#c3381f);
+    font-weight:bolder;
+    color:white;
+    box-shadow:10px 10px 10px 10px grey;
+}
+
+
+
+nav a {
+    padding:15px;
+    width:100px;
+    text-decoration:none;
+    font-size:30px;
+    color:black;
+    background-color:white;
+    border-radius: 10px 10px 10px 10px;
+    padding-right:45px;
+    border:4px solid rgb(0, 0, 0);
+    transition:400ms;
+    margin:10px;
+}
+
+.sigma {
+    text-align:center;
+    width:350px;
+    height:300px;
+    align-items: center;
+    transition:400ms;
+    
+}
+nonsigma{
+
+}
+
+.yatebaitudaisuda:hover {
+    transition:400ms;
+    font-size:40px;
+    box-shadow:5px 5px 5px 5px black;
+    padding-right:70px;
+}
+
+.nonsigma:hover {
+    transition:400ms;
+    font-size:40px;
+    box-shadow:5px 5px 5px 5px black;
+    padding-right:95px;
+}
+
+.sigma:hover {
+    transition:400ms;
+    text-align:center;
+    width:400px;
+    height:350px;
+    align-items: center;
+
+}
+.dakarka {
+    background-color: rgb(0, 0, 0);
+    color:white;
+    padding: 15px 45px 30px 45px;
+    width: 400px;
+    margin: 20px;
+    transition:400ms;
+    position: relative;
+    border-radius:5%;
+}
+.makron {
+    background-color: rgb(0, 0, 0);
+    color:white;
+    padding: 15px 45px 30px 45px;
+    width: 400px;
+    margin: 20px;
+    position: relative;
+    transition:400ms;
+    border-radius:5%;
+}
+.nonsigma {
+    padding-right:80px;
+    margin: 20px;
+    text-align:center;
+    align-items: center;
+    transition:400ms;
+}
+.mrak {
+    background-color: rgb(0, 0, 0);
+    color:white;
+    padding: 15px 45px 30px 45px;
+    width: 400px;
+    margin: 20px;
+    position: relative;
+    border-radius:5%;
+    transition:400ms;
+}
+.dakarka:hover {
+    font-size:20px;
+    transition:400ms;
+    background-image:linear-gradient(black,#492490);
+    font-weight:bolder;
+    color:white;
+    box-shadow:10px 10px 10px 10px grey;
+}
+.makron:hover {
+    font-size:20px;
+    transition:400ms;
+    background-image:linear-gradient(black,#e0881c);
+    font-weight:bolder;
+    color:white;
+    box-shadow:10px 10px 10px 10px grey;
+}
+.mrak:hover {
+    font-size:20px;
+    transition:400ms;
+    background-image:linear-gradient(black,#24adbd);
+    font-weight:bolder;
+    color:white;
+    box-shadow:10px 10px 10px 10px grey;
+}
+.yazaplakal {
+    border:5px solid black;
+    border-radius: 10px 10px 10px 10px;
+    padding:15px;
+    font-size: 25px;
+    float:right;
+    text-align:justify;
+    margin-right:25px;
+    width:60%;
+}
+
+.proshka {
+    font-siZe:60px;
+}
+.proshka:hover{
+    font-size:70px;
+}
+.footer-logotipchik {
+    height:200px;
+    width:220px;
+    border-radius:40%;
+    margin-left:500px;
+}
+.socialochka {
+    border-radius:50%;
+}
+.krut-img {
+    border-radius: 10px 10px 10px 10px;
+}
+li {
+    font-size:25px;
+}
+.telefonrandom:hover{
+    font-size:60px;
+}
+footer {
+    margin-top:150px;
+    background-color:#3b3b3b;
+    color: #ffcc57;
+    border-radius:10px 10px 10px 10px;
+    text-align:center;
+    align-items: center;
+}
+.perevagi:hover {
+    color:#ffbe25;
+    transition:300ms;
+}
+li:hover {
+    font-size:30px;
+    transition:300ms;
+}
+h1:hover {
+    color:#ffcc57;
+    transition:300ms;
+    font-size:50px;
+    
+}
+.spiidistarix{
+    display: flex;
+    flex-direction: column;
+   text-align:justify;
+    align-items: center;
+
+}
+.spiidi {
+    border-radius:50%;
+
+    height:250px;
+    width:250px;transition:300ms;
+   
+
+}
+.spiidi-text {
+
+   
+    font-size: 25px;
+ 
+
+    
+ 
+}
+.durman {
+    text-align:center;
+    font-size:40px;
+    padding-top:50px;
+}
+.Starix-text {
+    font-size: 25px;
+
+  
+}
+.starix {
+    border-radius:50%;
+    display:flex;
+    height:250px;
+    width:250px;
+    left:50%;
+    transition:300ms;
+}
+.spiidi:hover {
+    transition:300ms;
+    height:300px;
+    width:300px;
+    box-shadow:0px 5px 10px 0px rgb(31, 31, 31);
+}
+.sigmanchik {
+    height:100px;
+    width:100px;
+    margin-left:800px;
+}
+.spiidistarix {
+    background-image:linear-gradient(#5cbe78,#14538e);
+    border-radius:15px 15px 15px 15px;
+    padding-bottom:200px;
+    padding:20px;
+}
+
+.kapeckruti{
+    border-radius:50%;
+    display:flex;
+    height:250px;
+    min-width:290px;
+    margin-left:70px;
+    margin-top:73px;
+
+    
+}
+.opis {
+    font-size:20px;
+    font-weight:bold;
+}
+.info {
+    display:flex;
+    justify-content: space-evenly;
+
+}
+.info2 {
+    display:flex;
+    justify-content: space-evenly;
+
+}
+.robat {
+    border-radius:50%;
+    display:flex;
+    height:270px;
+    width:280px;
+    right:0;
+    margin-left:120px;
+    transition:300ms;
+}
+.k {
+    border:5px solid black;
+    padding:10px;
+    border-radius:10px 10px 10px 10px;
+    font-size: 25px;
+    float:right;
+    width:60%;
+    text-align:justify;
+    margin-bottom:10px;
+    transition:400ms;
+}
+.robat:hover {
+    transition:300ms;
+    height:300px;
+    width:300px;
+    box-shadow:5px 5px 5px 5px grey;
+}
+.crutinogudelaiveter {
+    padding:10px;
+    float:left;
+    width:1000px;
+    text-align:justify;
+    margin-right:700px;
+}
+.insta {
+    width:40px;
+    height:40px;
+     transition:300ms;
+    margin-bottom:10px;
+}
+.twitch{
+    width:93px;
+     transition:300ms;
+    height:60px;
+
+}
+.twitch:hover {
+    transition:300ms;
+    transform: scale(1.1);
+
+}
+.insta:hover {
+    transition:300ms;
+    transform: scale(1.1);
+}
+
+.telefonrandom {
+    color:white;
+    font-size:50px;
+}
+
